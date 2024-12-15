@@ -18,14 +18,5 @@ This repository analyzes client payment behavior using the `CREDIT` dataset , fo
 - Python 3.x
 - Libraries: `pandas`, `matplotlib`, `seaborn`, `scipy`
 
-## How to Use
 
-1. Clone the repository:
-   ```bash
-  https://github.com/vishwaraj14/EDA-
-   ```
-
-2. Run the Jupyter notebooks or Python scripts for analysis.
-
----
 
