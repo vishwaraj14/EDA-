@@ -22,7 +22,7 @@ This repository analyzes client payment behavior using the `CREDIT` dataset , fo
 
 1. Clone the repository:
    ```bash
-  
+  https://github.com/vishwaraj14/EDA-
    ```
 
 2. Run the Jupyter notebooks or Python scripts for analysis.
